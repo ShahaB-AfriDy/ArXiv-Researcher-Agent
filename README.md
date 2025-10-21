@@ -16,6 +16,18 @@ With **LangGraph**, all research and memory interactions are modeled as a **stat
 
 ---
 
+## Screenshots
+
+### Research Chat Interface
+
+![Research Chat Interface](assets/images/research-chat-interface.png)
+
+### Memory Chat Interface
+
+![Memory Chat Interface](assets/images/memory-chat-interface.png)
+
+---
+
 ## Key Features
 
 ### 1. Research Agent
@@ -176,18 +188,6 @@ npm run dev
   * Retrieve stored sessions
   * Summarize key findings
   * Highlight links and research progress over time
-
----
-
-## Screenshots
-
-### Research Chat Interface
-
-![Research Chat Interface](assets/images/research-chat-interface.png)
-
-### Memory Chat Interface
-
-![Memory Chat Interface](assets/images/memory-chat-interface.png)
 
 ---
 
