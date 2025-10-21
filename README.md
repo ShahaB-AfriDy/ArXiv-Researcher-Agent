@@ -90,15 +90,16 @@ Arxiv Researcher Agent
 │
 ├───assets
 │   └───images
-│       ├── research-chat-interface.png
-│       └── memory-chat-interface.png
 │
 ├───backend
 │   ├───core
 │   │   ├── researcher.py
 │   │   └── memory_manager.py
+│   │   └── main_graph.py
 │   └───utils
-│       └── config.py
+│   │    └── config.py
+│   │    └── db.py
+│   ├─────main.py
 │
 └───frontend
     ├───next.js-ui
@@ -114,7 +115,7 @@ Arxiv Researcher Agent
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/arxiv-researcher-agent.git
+git clone https://github.com/ShahaB-AfriDy/ArXiv-Researcher-Agent.git
 cd arxiv-researcher-agent
 ```
 
