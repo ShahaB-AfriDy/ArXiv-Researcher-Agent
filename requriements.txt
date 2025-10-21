@@ -1,0 +1,38 @@
+# Core Python and Environment
+python-dotenv
+pydantic>=2.0
+asyncio
+
+# LangChain / LangGraph
+langchain>=0.2.0
+langgraph>=0.1.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+
+# LLM and Vector Support
+openai>=1.12.0
+tavily-python
+pgvector
+psycopg[binary,pool]
+sqlalchemy>=2.0
+
+# FastAPI and Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+
+# Streamlit Frontend
+streamlit>=1.36.0
+
+# Utils and Logging
+requests
+httpx
+aiohttp
+tenacity
+numpy
+pandas
+
+# Optional Tools
+langchain-google-genai
+arxiv
+beautifulsoup4
+tiktoken

@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+*.db
+*.sqlite3
+*.db-journal
+
+# Virtual environment
+venv/
+.env/
+.env.local
+*.env
+*.ini
+.DS_Store
+
+# Build / Distribution
+build/
+dist/
+*.egg/
+.eggs/
+*.manifest
+*.spec
+
+# IDE and Editor Configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Streamlit and FastAPI Cache
+.streamlit/
+__cache__/
+.cache/
+.mypy_cache/
+pytest_cache/
+
+# Node / Next.js
+frontend/next.js-ui/node_modules/
+frontend/next.js-ui/.next/
+frontend/next.js-ui/out/
+frontend/next.js-ui/.env.local
+frontend/next.js-ui/.env.production
+frontend/next.js-ui/.vercel/
+
+# System Files
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+nohup.out
+
+# Generated files
+/tmp/
+assets/tmp/
