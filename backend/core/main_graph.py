@@ -1,6 +1,7 @@
 """
 main_graph.py
 ----------------
+
 Defines the LangGraph pipeline for the ArXiv Researcher Agent.
 
 It orchestrates two main agents:
